@@ -21,4 +21,4 @@ Projenin çalışması için gerekli olan bağımlılıkları yüklemek için a�
 1. Bu repoyu klonlayın:
    ```bash
    git clone https://github.com/kullanici_adiniz/turk-kimlik-ocr.git
-   cd turk-kimlik-ocr
+   cd turk-kimlik-ocr.
