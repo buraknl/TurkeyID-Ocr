@@ -57,5 +57,5 @@ if uploaded_file is not None:
             st.error("Beklenen veri formatı bulunamadı. Yeni kimlik için OCR sonuçları eksik olabilir.")
 
     else:
-        st.warning("Kimlik türü belirlenemedi. 'NUFUS' veya 'REPUBLIC' anahtar kelimeleri bulunamadı.")
+        st.warning("Kimlik türü belirlenemedi. 'NUFUS' veya 'REPUBLIC' anahtar kelimeleri bulunamadı .")
 
