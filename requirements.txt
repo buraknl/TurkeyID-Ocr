@@ -2,3 +2,4 @@ streamlit
 paddleocr
 Pillow
 numpy
+you must install .py in your PC
